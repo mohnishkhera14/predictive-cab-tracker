@@ -1,0 +1,14 @@
+{
+  "name": "predictive-cab-tracker-server",
+  "version": "1.0.0",
+  "description": "Backend for real-time cab and delivery tracking dashboard with AI-driven predictions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4",
+    "graphql": "^16.7.1"
+  }
+}
